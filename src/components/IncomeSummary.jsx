@@ -144,7 +144,6 @@ const IncomeSummary = () => {
       borderWidth="1px"
       borderColor={borderColor}
       _hover={{ boxShadow: "md", borderColor: "blue.300", bg: hoverBg }}
-      transition="all 0.3s"
     >
       {tooltip && (
         <Tooltip label={tooltip} placement="top" hasArrow>
