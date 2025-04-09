@@ -75,7 +75,7 @@ const Profile = () => {
               <Avatar 
                 size={avatarSize} 
                 name="Franzor" 
-                src="/img/franzor.jpg"
+                src="/img/franzor22.jpg"
                 border="4px solid"
                 borderColor="brand.500"
               />
